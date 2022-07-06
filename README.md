@@ -1,6 +1,6 @@
 # 4node
 network generation through enrichment statistics
-
+all work done in R/3.6.3
 
 Folders contain code for different parts of project and README files describing code
 TPOS contains topoloy files for all 4node circuits
